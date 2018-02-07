@@ -15,3 +15,7 @@ buildNumber.properties
 
 
 src/main/java/com/isa/workshops/logging/LoggingHierarchy.java
+src/main/resources/
+src/main/java/com/isa/workshops/log4j/simple/ConsoleLoggerExample.java
+src/main/java/com/isa/workshops/log4j/additivity/AdditivityLoggerExample.java
+src/main/java/com/isa/workshops/log4j/examples/VerboseExample.java
