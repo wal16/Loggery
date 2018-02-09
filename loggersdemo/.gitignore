@@ -19,3 +19,11 @@ src/main/resources/
 src/main/java/com/isa/workshops/log4j/simple/ConsoleLoggerExample.java
 src/main/java/com/isa/workshops/log4j/additivity/AdditivityLoggerExample.java
 src/main/java/com/isa/workshops/log4j/examples/VerboseExample.java
+src/main/java/com/isa/workshops/log4j/appenders/FileAppenderExample.java
+logs/
+src/main/java/com/isa/workshops/log4j/filters/BurstFilterExample.java
+src/main/java/com/isa/workshops/slf4j/examples/SlfDemo.java
+src/main/java/com/isa/workshops/log4j/examples/IOStreams.java
+src/main/java/com/isa/workshops/log4j/layouts/CSVLayouts.java
+src/main/java/com/isa/workshops/log4j/layouts/JsonLayouts.java
+src/main/java/com/isa/workshops/log4j/layouts/PatternLayouts.java
