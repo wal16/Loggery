@@ -27,3 +27,5 @@ src/main/java/com/isa/workshops/log4j/examples/IOStreams.java
 src/main/java/com/isa/workshops/log4j/layouts/CSVLayouts.java
 src/main/java/com/isa/workshops/log4j/layouts/JsonLayouts.java
 src/main/java/com/isa/workshops/log4j/layouts/PatternLayouts.java
+src/main/java/com/isa/workshops/logging/ProductionLogsExample.java
+src/main/java/com/isa/workshops/logging/EffectiveLevelExample.java
